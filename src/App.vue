@@ -5,7 +5,7 @@ import Informations from './components/Informations.vue'
 
 <template>
   <header>
-    <img alt="Main logo" class="logo" src="./assets/hordelogo.png" height="380" width="220"/>
+    <img alt="Main logo" class="logo" src="./dist/assets/hordelogo.png" height="380" width="220"/>
 
     <div class="wrapper">
       <Me msg="Cristhian Peverelli" />
